@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Angel ([ˈaŋ.xel])
 
-<!--
-**nglcode/nglcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **🔍 About Me**  
+QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of online courses, with a GitHub full of half-baked ideas and code snippets from learning adventures.
 
-Here are some ideas to get you started:
+### **🛠️ Current Focus**  
+- **QA Automation**: Sharpening my skills in Selenium, Cypress and API testing.
+- **Learning**: Currently diving into Python, TypeScript, and Kubernetes.  
+- **Building**: A QA portfolio with real-world projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🚧 Ongoing Projects** 
+1. This section 😉
+2. **Automated Testing Playground** - TBD
+3. **CI/CD Pipeline for QA** - TBD
+
+### **🌱 Goals for 2025**  
+- [ ] Master Python and TypeScript for test frameworks.  
+- [ ] Contribute to an open-source QA tool.  
+- [ ] Finish 3 side projects (no matter how small!).  
+
+### **📊 Current Course Progress**  
+- [ ] **Kubernetes for the Absolute Beginners** ![Progress](https://img.shields.io/badge/30%25-blue)  
+- [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/30%25-green)  
+
+### **📫 Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/angellgoncalves/)  
+
+> *"Debugging is like being a detective in a crime movie where you’re also the murderer."* 
