@@ -20,7 +20,14 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 
 ### **📊 Current Course Progress**  
 - [ ] **Kubernetes for the Absolute Beginners** ![Progress](https://img.shields.io/badge/30%25-blue)  
-- [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/30%25-green)  
+- [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/30%25-green)
+
+## **📌 Other Interesting Repositories**  
+- [**The Internet**](https://github.com/nglcode/the-internet) - Perfect for writing automated acceptance tests against. 
+- [**Awesome Privacy**](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services and alternatives to privative services.
+- [**Free Learning Resources for Software Testers**](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - Links to free online learning resources for new and experienced Software Testers.
+- [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books) - List of Free Learning Resources In Many Languages.
+
 
 ### **📫 Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/angellgoncalves/)  
