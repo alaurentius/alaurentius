@@ -5,7 +5,7 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 
 ### **🛠️ Current Focus**  
 - **QA Automation**: Sharpening my skills in Selenium, Cypress and API testing.
-- **Learning**: Currently diving into Python, TypeScript, and Kubernetes.  
+- **Learning**: Currently diving into Python, TypeScript, Kubernetes, Generative AI, AI Testing and KPI's .  
 - **Building**: A QA portfolio with real-world projects.  
 
 ### **🚧 Ongoing Projects** 
