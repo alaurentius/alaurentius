@@ -22,11 +22,12 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 - [ ] **Kubernetes for the Absolute Beginners** ![Progress](https://img.shields.io/badge/30%25-blue)  
 - [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/30%25-green)
 
-## **📌 Other Interesting Repositories**  
+## **📌 Other Interesting Resources**  
 - [**The Internet**](https://github.com/nglcode/the-internet) - Perfect for writing automated acceptance tests against. 
 - [**Awesome Privacy**](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services and alternatives to privative services.
 - [**Free Learning Resources for Software Testers**](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - Links to free online learning resources for new and experienced Software Testers.
 - [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books) - List of Free Learning Resources In Many Languages.
+- [**Free for Devs**](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
 
 
 ### **📫 Let's Connect**  
