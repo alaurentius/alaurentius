@@ -19,7 +19,7 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 - [ ] Finish 3 side projects (no matter how small!).  
 
 ### **📊 Current Course Progress**  
-- [ ] **Kubernetes for the Absolute Beginners** ![Progress](https://img.shields.io/badge/30%25-blue)  
+- [ ] **Kubernetes for the Absolute Beginners** ![Progress](https://img.shields.io/badge/65%25-blue)  
 - [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/30%25-green)
 
 ## **📌 Other Interesting Resources**  
