@@ -29,6 +29,7 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 - [**Free Learning Resources for Software Testers**](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - Links to free online learning resources for new and experienced Software Testers.
 - [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books) - List of Free Learning Resources In Many Languages.
 - [**Free for Devs**](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
+- [**ConvertX**](https://github.com/C4illin/ConvertX) - A self-hosted online file converter. Supports over a thousand different formats. 
 
 
 ### **📫 Let's Connect**  
