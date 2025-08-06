@@ -22,7 +22,7 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 - [X] **Kubernetes for the Absolute Beginners** ![Progress](https://img.shields.io/badge/100%25-blue)  
 - [X] **GitHub Copilot Beginner to Pro** ![Progress](https://img.shields.io/badge/100%25-gray)
 - [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/30%25-green)
-- [ ] **Cybersecurity in Operational Technology Environments** ![Progress](https://img.shields.io/badge/10%25-orange)
+- [ ] **Cybersecurity in Operational Technology Environments** ![Progress](https://img.shields.io/badge/15%25-orange)
 - [ ] **Python Programming MOOC.fi 2025** ![Progress](https://img.shields.io/badge/10%25-darkblue)
 
 ## **📌 Other Interesting Resources**  
