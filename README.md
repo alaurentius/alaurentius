@@ -4,7 +4,7 @@
 QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of online courses, with a GitHub full of half-baked ideas and code snippets from learning adventures.
 
 ### **🛠️ Current Focus**  
-- **QA Automation**: Sharpening my skills in Selenium, Cypress and API testing.
+- **QA Automation**: Sharpening my skills in Selenium, Playwright, Cypress and API testing.
 - **Learning**: Currently diving into Python, TypeScript, Kubernetes, Generative AI, Cybersecurity, AI Testing and KPI's .  
 - **Building**: A QA portfolio with real-world projects.  
 
@@ -20,6 +20,7 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 
 ### **📊 Current Course Progress**  
 - [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/40%25-green)
+- [ ] **Playwright JS/TS Automation Testing from Scratch & Framework** ![Progress](https://img.shields.io/badge/20%25-lightgrey)
 - [ ] **Python Programming MOOC.fi 2025** ![Progress](https://img.shields.io/badge/10%25-darkblue)
 
 ## **📌 Other Interesting Resources**  
