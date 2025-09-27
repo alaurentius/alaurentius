@@ -30,6 +30,7 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 - [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books) - List of Free Learning Resources In Many Languages.
 - [**Free for Devs**](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
 - [**ConvertX**](https://github.com/C4illin/ConvertX) - A self-hosted online file converter. Supports over a thousand different formats. 
+- [**Clone Wars**](https://gourav.io/clone-wars) - Open-source clones and alternatives of popular sites. 
 
 
 ### **📫 Let's Connect**  
