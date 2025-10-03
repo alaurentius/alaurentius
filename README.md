@@ -19,8 +19,8 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 - [ ] Finish 3 side projects (no matter how small!).  
 
 ### **📊 Current Course Progress**  
+- [ ] **Playwright JS/TS Automation Testing from Scratch & Framework** ![Progress](https://img.shields.io/badge/45%25-lightgrey)
 - [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/40%25-green)
-- [ ] **Playwright JS/TS Automation Testing from Scratch & Framework** ![Progress](https://img.shields.io/badge/35%25-lightgrey)
 - [ ] **Python Programming MOOC.fi 2025** ![Progress](https://img.shields.io/badge/10%25-darkblue)
 
 ## **📌 Other Interesting Resources**  
