@@ -13,7 +13,7 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 2. **Automated Testing Playground** - TBD
 3. **CI/CD Pipeline for QA** - TBD
 
-### **🌱 Goals for 2025**  
+### **🌱 Goals for 2025/26**  
 - [ ] Master Python and TypeScript for test frameworks.  
 - [ ] Contribute to an open-source QA tool.  
 - [ ] Finish 3 side projects (no matter how small!).  
