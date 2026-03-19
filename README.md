@@ -1,30 +1,30 @@
-# 👋 Hi, I'm Angel ([ˈaŋ.xel])
+# Hi, I'm Angel ([ˈaŋ.xel])
 
-## **🔍 About Me**  
+## **About Me**  
 QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of online courses, with a GitHub full of half-baked ideas and code snippets from learning adventures.
 
-### **🛠️ Current Focus**  
+### **Current Focus**  
 - **QA Automation**: Sharpening my skills in Selenium, Playwright, Cypress and API testing.
 - **Learning**: Currently diving into Python, TypeScript, Kubernetes, Generative AI, Cybersecurity, AI Testing and KPI's .  
 - **Building**: A QA portfolio with real-world projects.  
 
-### **🚧 Ongoing Projects** 
+### **Ongoing Projects** 
 1. This section 😉
 2. **Automated Testing Playground** - TBD
 3. **CI/CD Pipeline for QA** - TBD
 
-### **🌱 Goals for 2025/26**  
+### **Goals for 2025/26**  
 - [ ] Master Python and TypeScript for test frameworks.  
 - [ ] Contribute to an open-source QA tool.  
 - [ ] Finish 3 side projects (no matter how small!).  
 
-### **📊 Current Course Progress**  
+### **Current Course Progress**  
 - [X] **Playwright JS/TS Automation Testing from Scratch & Framework** ![Progress](https://img.shields.io/badge/100%25-lightgrey)
 - [ ] **Azure DevOps** ![Progress](https://img.shields.io/badge/11%25-lightblue)
 - [ ] **Cypress - Modern Automation Testing from Scratch** ![Progress](https://img.shields.io/badge/40%25-green)
 - [ ] **Python Programming MOOC.fi 2025** ![Progress](https://img.shields.io/badge/10%25-darkblue)
 
-## **📌 Other Interesting Resources**  
+## **Other Interesting Resources**  
 - [**The Internet**](https://github.com/nglcode/the-internet) - Perfect for writing automated acceptance tests against. 
 - [**Awesome Privacy**](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services and alternatives to privative services.
 - [**Free Learning Resources for Software Testers**](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - Links to free online learning resources for new and experienced Software Testers.
@@ -34,7 +34,7 @@ QA Specialist who breaks things for a living 🛠️. Dragon-like hoarder of onl
 - [**Clone Wars**](https://gourav.io/clone-wars) - Open-source clones and alternatives of popular sites. 
 
 
-### **📫 Let's Connect**  
+### **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/angellgoncalves/)  
 
 > *"Debugging is like being a detective in a crime movie where you’re also the murderer."* 
